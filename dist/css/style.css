@@ -508,7 +508,7 @@ body {
         font-family: inherit;
         color: inherit;
         font-size: 1.2rem;
-        width: 15rem; }
+        width: 12rem; }
         .list__field--add:focus {
           outline: none; }
         .list__field--add::placeholder {
